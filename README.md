@@ -1,2 +1,2 @@
-# cz4042-neural-network
-CZ4042 Neural Network of Sem 1 AY19/20
+# 🧠 CZ4042 Neural Network Assignments
+CZ4042 Neural Network Assignments of Sem 1 AY19/20
